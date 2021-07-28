@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fatin2sarker
 - 👀 I’m interested in Software/Hardware Engineering as well as R&D 
 - 🌱 I’m currently an undergrad student in University of Waterloo in Computer Engineering
-- 💞️ I’m looking to collaborate on Engineering/Product Development based coops (4/8 months) for Fall 2021
+- 💞️ I’m looking to collaborate on Engineering/Product Development based coops (4 months) for Fall 2021
 - 📫 How to reach me f2sarker@uwaterloo.ca
 
 <!---
