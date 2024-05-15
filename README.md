@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fatin2sarker
 - 👀 I’m interested in Software Engineering and Embedded Software Development. 
-- 🌱 I’m currently an undergrad student in University of Waterloo in Computer Engineering
-- 💞️ Seeking full-time opputunities starting 2024.
+- 🌱 2024 New Grad from University of Waterloo in Computer Engineering
+- 💞️ Seeking full-time opputunities.
 - 📫 Reach me at f2sarker@uwaterloo.ca  and  https://www.linkedin.com/in/fatinsarker2ca/
 
 <!---
